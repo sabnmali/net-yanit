@@ -1,0 +1,17 @@
+{
+  "name": "net-yanit",
+  "owner": {
+    "name": "sabnmali",
+    "url": "https://github.com/sabnmali"
+  },
+  "metadata": {
+    "description": "Türkçe net yanıt sistemi için Claude Code marketplace'i"
+  },
+  "plugins": [
+    {
+      "name": "net-yanit",
+      "source": "./",
+      "description": "Sonuç önce, bilgi kaybı olmadan kısa Türkçe yanıtlar; /detay, /kisa ve HTML kuralı."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# Üretilen paketler (GitHub Release'e eklenir, repoya girmez)
+dist/
+
+# Hiçbir gizli bilgi bu repoya girmemeli
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+secrets*
+credentials*
+
+# İşletim sistemi / editör artıkları
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.ai-sync-backups/
