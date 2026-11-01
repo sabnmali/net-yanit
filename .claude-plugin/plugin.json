@@ -1,0 +1,19 @@
+{
+  "name": "net-yanit",
+  "displayName": "Net Yanıt (Türkçe)",
+  "version": "2.1.0",
+  "description": "Türkçe için net ve eksiksiz yanıt sistemi: sonuç önce, sabit emojili bölüm arşivi, sonda 📌 Özet. /detay ve /kisa komutları, uzun içerik için HTML.",
+  "author": {
+    "name": "sabnmali",
+    "url": "https://github.com/sabnmali"
+  },
+  "repository": "https://github.com/sabnmali/net-yanit",
+  "license": "MIT",
+  "keywords": [
+    "turkish",
+    "türkçe",
+    "concise",
+    "output-style",
+    "plain-language"
+  ]
+}
